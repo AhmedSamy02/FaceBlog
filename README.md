@@ -18,7 +18,7 @@ I used **json-server** to mock the backend data for this project. You can find t
 
 Want to see FaceBlog in action? Check out the demo video below! It’s a quick and fun way to get a feel for the app.
 
-![Watch the demo](https://github.com/AhmedSamy02/faceblog/raw/main/screenshots/demo.mp4)!
+![Watch the demo](./screenshots/demo.mp4)
 
 ## 🛠️ Technologies
 
