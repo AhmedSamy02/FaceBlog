@@ -1,0 +1,27 @@
+.nav-title {
+	color: hsl(350, 96%, 67%);
+	font-size: 2.2rem;
+	font-weight: bold;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+}
+.nav-items {
+	float: inline-end;
+	text-decoration: none;
+	margin: 0.7em;
+	color: grey;
+	font-size: 1.2rem;
+	text-align: center;
+	border: 1px solid white;
+	padding: 0.4em;
+	border-radius: 10px;
+	transition: border-color 0.3s ease;
+}
+.nav-items:hover {
+	border-color: #fc5a75;
+}
+.top-nav {
+	display: flex;
+	align-items: center;
+}

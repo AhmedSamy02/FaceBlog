@@ -1,0 +1,274 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "first_name": "Penrod",
+      "last_name": "Martygin",
+      "gender": "Male",
+      "email": "pmartygin0@salon.com",
+      "password": "qE0'w6zHhba1d$Q>"
+    },
+    {
+      "id": "2",
+      "first_name": "Elvin",
+      "last_name": "Dwire",
+      "gender": "Male",
+      "email": "edwire1@umn.edu",
+      "password": "xE4%yZB6\\"
+    },
+    {
+      "id": "3",
+      "first_name": "Tobe",
+      "last_name": "Spellsworth",
+      "gender": "Female",
+      "email": "tspellsworth2@reverbnation.com",
+      "password": "wE7=|At2y2getER"
+    },
+    {
+      "id": "4",
+      "first_name": "Lynde",
+      "last_name": "Greim",
+      "gender": "Female",
+      "email": "lgreim3@ezinearticles.com",
+      "password": "oK8)323jNI'"
+    },
+    {
+      "id": "5",
+      "first_name": "Bondy",
+      "last_name": "Sket",
+      "gender": "Male",
+      "email": "bsket4@taobao.com",
+      "password": "mA9$s*8/Lu/}Y"
+    },
+    {
+      "id": "6",
+      "first_name": "Barbe",
+      "last_name": "Mournian",
+      "gender": "Female",
+      "email": "bmournian5@unesco.org",
+      "password": "vO5`$\"\"ds+"
+    },
+    {
+      "id": "7",
+      "first_name": "Bartlett",
+      "last_name": "Fink",
+      "gender": "Male",
+      "email": "bfink6@example.com",
+      "password": "zM9@}r8bs1{)V"
+    },
+    {
+      "id": "8",
+      "first_name": "Rebekah",
+      "last_name": "Petheridge",
+      "gender": "Female",
+      "email": "rpetheridge7@mediafire.com",
+      "password": "fM1|KLw\\"
+    },
+    {
+      "id": "9",
+      "first_name": "Keene",
+      "last_name": "Amorts",
+      "gender": "Male",
+      "email": "kamorts8@bandcamp.com",
+      "password": "jE0$Yb0\\"
+    },
+    {
+      "id": "10",
+      "first_name": "Judd",
+      "last_name": "Eldin",
+      "gender": "Male",
+      "email": "jeldin9@webs.com",
+      "password": "iI0|3o(27bm{"
+    },
+    {
+      "id": "11",
+      "first_name": "Michele",
+      "last_name": "Cordeux",
+      "gender": "Male",
+      "email": "mcordeuxa@ucoz.ru",
+      "password": "nF5=$wbRn0sqG="
+    },
+    {
+      "id": "12",
+      "first_name": "Kayne",
+      "last_name": "Guiducci",
+      "gender": "Male",
+      "email": "kguiduccib@amazon.de",
+      "password": "xZ8%1'.W"
+    },
+    {
+      "id": "13",
+      "first_name": "Tanya",
+      "last_name": "Rammell",
+      "gender": "Female",
+      "email": "trammellc@xrea.com",
+      "password": "jN1)}tjX.U86WgD"
+    },
+    {
+      "id": "14",
+      "first_name": "Issiah",
+      "last_name": "Faltskog",
+      "gender": "Male",
+      "email": "ifaltskogd@un.org",
+      "password": "uT8,Zn+gh0"
+    },
+    {
+      "id": "15",
+      "first_name": "Biddy",
+      "last_name": "Redshaw",
+      "gender": "Female",
+      "email": "bredshawe@livejournal.com",
+      "password": "wK7$97jyTSO"
+    },
+    {
+      "id": "16",
+      "first_name": "Sallee",
+      "last_name": "Langran",
+      "gender": "Female",
+      "email": "slangranf@nbcnews.com",
+      "password": "kP8&fJm9d}"
+    },
+    {
+      "id": "17",
+      "first_name": "Packston",
+      "last_name": "Kirimaa",
+      "gender": "Male",
+      "email": "pkirimaag@jigsy.com",
+      "password": "yT6&p1$wmn_t8M*b"
+    },
+    {
+      "id": "18",
+      "first_name": "Field",
+      "last_name": "Jonsson",
+      "gender": "Male",
+      "email": "fjonssonh@blogtalkradio.com",
+      "password": "mG2_sJBbe"
+    },
+    {
+      "id": "19",
+      "first_name": "Gay",
+      "last_name": "Southcott",
+      "gender": "Female",
+      "email": "gsouthcotti@yellowbook.com",
+      "password": "rG2@I`\"a`"
+    },
+    {
+      "id": "20",
+      "first_name": "Lyell",
+      "last_name": "Caizley",
+      "gender": "Male",
+      "email": "lcaizleyj@bluehost.com",
+      "password": "lE5'A<an|7x9=vw"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "47f6",
+      "title": "My Day",
+      "body": "I ate fish today and played Pes 2021 for 1 hour",
+      "author": "Ahmed Samy"
+    },
+    {
+      "id": "4cas5c7f6",
+      "title": "My Tasks",
+      "body": "I have to go to university and do the laundry",
+      "author": "Ahmed Samy"
+    },
+    {
+      "id": "3",
+      "author": "Mona Taberer",
+      "title": "Pellentesque ultrices mattis odio.",
+      "body": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+    },
+    {
+      "id": "4",
+      "author": "Ransom Morigan",
+      "title": "Integer ac leo.",
+      "body": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."
+    },
+    {
+      "id": "5",
+      "author": "Perl Guichard",
+      "title": "Sed sagittis.",
+      "body": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+    },
+    {
+      "id": "6",
+      "author": "Alberta Franz",
+      "title": "Nulla ut erat id mauris vulputate elementum.",
+      "body": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+    },
+    {
+      "id": "7",
+      "author": "Helene Brockman",
+      "title": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+      "body": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+    },
+    {
+      "id": "8",
+      "author": "Caresse Calafato",
+      "title": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+      "body": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+    },
+    {
+      "id": "9",
+      "author": "Giralda Golsworthy",
+      "title": "Quisque porta volutpat erat.",
+      "body": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+    },
+    {
+      "id": "11",
+      "author": "Gawain Gorch",
+      "title": "Integer tincidunt ante vel ipsum.",
+      "body": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+    },
+    {
+      "id": "12",
+      "author": "Benjamen Tethcote",
+      "title": "Ut tellus.",
+      "body": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+    },
+    {
+      "id": "13",
+      "author": "Sinclair Peche",
+      "title": "Aenean auctor gravida sem.",
+      "body": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+    },
+    {
+      "id": "14",
+      "author": "Cobb Lawlance",
+      "title": "Etiam faucibus cursus urna.",
+      "body": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
+    },
+    {
+      "id": "15",
+      "author": "Thorstein Pinhorn",
+      "title": "In congue.",
+      "body": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+    },
+    {
+      "id": "16",
+      "author": "Ninon Musicka",
+      "title": "Integer non velit.",
+      "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus."
+    },
+    {
+      "id": "17",
+      "author": "Celene Elcom",
+      "title": "Mauris lacinia sapien quis libero.",
+      "body": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+    },
+    {
+      "id": "18",
+      "author": "Mirabelle Chellam",
+      "title": "Vivamus tortor.",
+      "body": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+    },
+    {
+      "id": "19",
+      "author": "Emanuel Elfe",
+      "title": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "body": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui."
+    }
+  ]
+}
